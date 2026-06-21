@@ -1,29 +1,26 @@
 # free
-Free Claude and GPT / Бесплатные Claude и GPT
+
+Free Claude and GPT
 
 https://freemodel.dev/invite/FRE-a8559218
 
-Полный гайд⤵️
+Full guide ⤵️
 
-🟢Скачиваем OpenCode / Visual Studio Code - Kilo Code, через него мы будем общаться с Ai
+🟢 Download OpenCode / Visual Studio Code – Kilo Code, through which we will communicate with AI
 
-🟢Регаемся на https://freemodel.dev/invite/FRE-a8559218
+🟢 Sign up at https://freemodel.dev/invite/FRE-a8559218
 
-🟢Связываем телеграмм 
+🟢 Connect Telegram
 
-🟢Идем в ключи api → создать ключ → создаем и сохраняем сразу
+🟢 Go to API keys → create key → generate it and save it immediately
 
-🟢Далее открываем opencode / Visual Studio Code - Kilo Code → settings → providers → custom provider:
+🟢 Then open OpenCode / Visual Studio Code – Kilo Code → settings → providers → custom provider:
 
-🟥id provider: free-model
+🟥 provider id: free-model  
+🟥 name: FreeModel  
+🟥 base url: https://api.freemodel.dev/v1  
+🟥 api key: insert your own API key  
+🟥 model id: claude-opus-4-7  
+🟥 display name: Claude Opus 4.7  
 
-🟥name: FreeModel
-
-🟥base url: https://api.freemodel.dev/v1
-🟥api key: свой api вставляй
-
-🟥model id: claude-opus-4-7
-
-🟥display name: Claude Opus 4.7
-
-🟢После этого в терминале уже открывайте папку со своим проектом и воркайте
+🟢 After that, open your project folder in the terminal and start working
